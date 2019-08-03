@@ -5,23 +5,6 @@ console.log(tableData)
 var tbody = d3.select("tbody");
 
 
-var date = data.map(date =>date.datetime);
-// console.log(date);
-var city = data.map(city => city.city);
-// console.log(city);
-var state = data.map(state => state.state);
-// console.log(state);
-var countries = data.map(countr => countr.country);
-// console.log(countries);
-var shape = data.map(shape => shape.shape);
-// console.log(shape);
-var durationMinutes = data.map(minutes => minutes.durationMinutes);
-// console.log(durationMinutes);
-var comments = data.map(comment => comment.comments);
-// console.log(comments);
-
-
-
 function buildTable(dataArray){
     tbody.html("")
     var table = d3.select("#ufo-table");
