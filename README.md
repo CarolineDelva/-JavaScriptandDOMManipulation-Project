@@ -20,17 +20,11 @@ The final table includes the following features:
 
 - A date form in the HTML document 
 
-- JavaScript code listens for events and search through the `date/time` column to find rows that match user input.
+- JavaScript code that listens for events and search through the `date/time` column to find rows that match user input.
 
 - JavaScript code so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
-  1. `date/time`
-  2. `city`
-  3. `state`
-  4. `country`
-  5. `shape`
-
-
+ 
 ## Methods Used
 * Data Visualization
 * Data exploration
@@ -51,5 +45,9 @@ The final table includes the following features:
 4. Find the HTML file as [index.html](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/index.html).
 5. Find the CSS code in the [css](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/tree/master/static/css) folder.
 4. Run the codes in a editor like[Visual Studio Code](https://code.visualstudio.com/).
+
+## Output
+
+To see the table in action, visit the GitHub page [UFO TABLE](https://carolinedelva.github.io/UFOSightingsTabularDashboard-/)
 
 
