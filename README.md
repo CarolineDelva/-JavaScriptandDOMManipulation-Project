@@ -14,9 +14,9 @@ The final table includes the following features:
 
 - An HTML web page 
 
-- Code that appends a table to the web page and then adds new rows of data for each UFO sighting using the dataset in the form of an array of JavaScript objects 
+- Code that appends a table to the web page and adds new rows of data for each UFO sighting using the dataset in the form of an array of JavaScript objects 
 
-- Columns for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
+- Columns : `date/time`, `city`, `state`, `country`, `shape`, and `comment` .
 
 - A date form in the HTML document 
 
