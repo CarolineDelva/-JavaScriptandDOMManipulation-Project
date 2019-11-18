@@ -48,7 +48,7 @@ The final table includes the following features:
 
 ## Output
 
-To see the table in action, visit the GitHub page [UFO TABLE](https://carolinedelva.github.io/UFOSightingsTabularDashboard-/)
+To see the table in action, visit the GitHub page;: [UFO TABLE](https://carolinedelva.github.io/UFOSightingsTabularDashboard-/)
 
 
 
