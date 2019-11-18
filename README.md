@@ -31,7 +31,7 @@ The final table includes the following features:
 
 
 ## Technologies
-* JavaScripyt (D3)
+* JavaScript (D3)
 * HTML
 * CSS
 
