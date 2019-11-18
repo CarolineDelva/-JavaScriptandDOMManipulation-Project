@@ -8,25 +8,21 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 ## Project Description
 
-The purpose of this project is to create a dynamic table based upon the [dataset](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/data.js). The table can be filtered for specific values. 
+The purpose of this project is to create a dynamic table based upon the UFO [dataset](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/data.js). The table can be filtered for specific values. 
 
 The final table includes the following features:
 
-### Level 1: Automatic Table and Date Search
+- An HTML web page 
 
-* Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
+- Code that appends a table to the web page and then adds new rows of data for each UFO sighting using the dataset in the form of an array of JavaScript objects 
 
-* Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
+- Columns for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
-  * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
+- A date form in the HTML document 
 
-* Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
+- JavaScript code listens for events and search through the `date/time` column to find rows that match user input.
 
-### Level 2: Multiple Search Categories (Optional)
-
-* Complete all of Level 1 criteria.
-
-* Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+- JavaScript code so the user can set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
   1. `date/time`
   2. `city`
@@ -34,18 +30,31 @@ The final table includes the following features:
   4. `country`
   5. `shape`
 
-- - -
 
-### Dataset
+## Methods Used
+* Data Visualization
+* Descriptive Analysis
 
-* [UFO Sightings Data](StarterCode/static/js/data.js)
 
-- - -
+## Technologies
+* JavaScripyt(D3)
+* HTML, CSS
 
-**Good luck!**
+## Needs of this project
 
-- - -
+- data exploration
+- descriptive statistics
+- data processing
 
-### Copyright
 
-Data Boot Camp © 2018. All Rights Reserved.
+
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. CSV can be found in the [Resources](https://github.com/CarolineDelva/HeroesofPymoli-Pandas-Project/tree/master/HeroesOfPymoli/Resources) in this repository.
+
+3. The Python script is located in the [HeroesOfPymoli](https://github.com/CarolineDelva/HeroesofPymoli-Pandas-Project/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) folder.
+4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
+
+
