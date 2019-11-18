@@ -6,6 +6,11 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 ![UFO Sighting](static/images/nasa.jpg)
 
+## Project Description
+
+The purpose of this project is to create a dynamic table based upon the [dataset](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/data.js). The table can be filtered for specific values. 
+
+The final table includes the following features:
 ## Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
