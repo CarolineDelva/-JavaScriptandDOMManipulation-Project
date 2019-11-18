@@ -8,7 +8,7 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 ## Project Description
 
-The purpose of this project is to create a dynamic table based upon the UFO [dataset](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/data.js). The table can be filtered for specific values. 
+The purpose of this project is to create a dynamic table based upon the UFO [dataset](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/data.js). 
 
 The final table includes the following features:
 
