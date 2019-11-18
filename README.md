@@ -16,7 +16,7 @@ The final table includes the following features:
 
 - Code that appends a table to the web page and adds new rows of data for each UFO sighting using the dataset in the form of an array of JavaScript objects 
 
-- Columns : `date/time`, `city`, `state`, `country`, `shape`, and `comment` .
+- Columns : `date/time`, `city`, `state`, `country`, `shape`, and `comment` 
 
 - A date form in the HTML document 
 
@@ -50,4 +50,10 @@ The final table includes the following features:
 
 To see the table in action, visit the GitHub page [UFO TABLE](https://carolinedelva.github.io/UFOSightingsTabularDashboard-/)
 
+
+
+
+## Contact
+* [Visit my LinkedIn](https://www.linkedin.com/in/caroline-delva-5184a172/) 
+* [Visit my portfolio](https://carolinedelva.github.io/CarolineDelvaPortfolio/) 
 
