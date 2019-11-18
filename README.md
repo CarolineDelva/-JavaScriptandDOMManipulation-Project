@@ -33,28 +33,23 @@ The final table includes the following features:
 
 ## Methods Used
 * Data Visualization
-* Descriptive Analysis
+* Data exploration
 
 
 ## Technologies
-* JavaScripyt(D3)
-* HTML, CSS
-
-## Needs of this project
-
-- data exploration
-- descriptive statistics
-- data processing
-
-
+* JavaScripyt (D3)
+* HTML
+* CSS
 
 
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. CSV can be found in the [Resources](https://github.com/CarolineDelva/HeroesofPymoli-Pandas-Project/tree/master/HeroesOfPymoli/Resources) in this repository.
+2. Find the CSV in the [JS](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/data.js) folder.
 
-3. The Python script is located in the [HeroesOfPymoli](https://github.com/CarolineDelva/HeroesofPymoli-Pandas-Project/blob/master/HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) folder.
-4. Run the script in a [Jupyter Notebook](https://jupyter.org/).
+3. Find the JavaScript code in the [JS](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/app2.js) folder.
+4. Find the HTML file as [index.html](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/index.html).
+5. Find the CSS code in the [css](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/tree/master/static/css) folder.
+4. Run the codes in a editor like[Visual Studio Code](https://code.visualstudio.com/).
 
 
